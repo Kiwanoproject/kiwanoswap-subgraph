@@ -1,4 +1,4 @@
-type PancakeFactory @entity {
+type KiwanoSwapFactory @entity {
   id: ID!
 
   "Total of pairs"
