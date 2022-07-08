@@ -1,3 +1,19 @@
+1) Exchange API: Tracks all kiwanoswap Exchange data with price, volume, liquidity.
+https://api.thegraph.com/subgraphs/name/kiwanoproject/exchange
+
+2) Blocks API: Tracks all blocks on Binance Smart Chain.
+https://api.thegraph.com/subgraphs/name/kiwanoproject/blocks
+
+
+3) Pairs: Tracks all kiwanoproject Pairs and Tokens.
+ https://api.thegraph.com/subgraphs/name/kiwanoproject/pairs
+
+For now we have only 3  Active Api
+
+
+
+
+
 # kiwanoswap Subgraph
 
 TheGraph exposes a GraphQL endpoint to query the events and entities within the Binance Smart Chain and kiwanoswap ecosystem.
