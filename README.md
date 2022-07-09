@@ -73,7 +73,3 @@ For any of the subgraph: `blocks` as `[subgraph]`
 4. Run `graph auth --product hosted-service '<ACCESS_TOKEN>'`
 
 5. Deploy via `yarn deploy`.
-
-## v1
-
-To access subgraphs related to kiwanoproject v1 ecosystem ([article](https://kiwanoproject.medium.com/the-great-migration-vote-4093cb3edf23)), use [`v1`](https://github.com/kiwanoproject/pancake-subgraph/tree/v1) branch.
